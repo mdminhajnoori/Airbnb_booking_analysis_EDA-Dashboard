@@ -1,4 +1,4 @@
-# Airbnb_booking_analysis_EDA-Dashboard
+# EDA_AirBnb_Hotel_Bookings_Analysis
 Goal: This project aims to extract actionable insights from Airbnb booking data to:
 
 Improve guest satisfaction
