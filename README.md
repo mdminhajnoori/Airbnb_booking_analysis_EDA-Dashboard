@@ -1,5 +1,5 @@
 # EDA_AirBnb_Hotel_Bookings_Analysis
-# New York City Market Analysis
+New York City Market Analysis
 Project Overview
 
 This project delivers an in-depth Exploratory Data Analysis (EDA) of Airbnb listings in New York City. The goal was to extract actionable insights to enhance guest satisfaction, identify growth opportunities, support host success, and refine pricing strategies, leveraging a comprehensive dataset of over 48,000 listings.
