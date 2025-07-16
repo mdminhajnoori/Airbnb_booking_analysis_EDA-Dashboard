@@ -1,41 +1,3 @@
-# EDA_AirBnb_Hotel_Bookings_Analysis
-New York City Market Analysis
-Project Overview
-
-This project delivers an in-depth Exploratory Data Analysis (EDA) of Airbnb listings in New York City. The goal was to extract actionable insights to enhance guest satisfaction, identify growth opportunities, support host success, and refine pricing strategies, leveraging a comprehensive dataset of over 48,000 listings.
-
-Business Context & Goals
-
-Airbnb aimed to address challenges in the NYC market by understanding customer preferences, identifying emerging neighborhoods for expansion, empowering hosts, and optimizing pricing for revenue and guest satisfaction.
-
-Dataset
-
-Analysis was conducted on the "Airbnb NYC 2019.csv" dataset (48,895 entries, 16 columns), following extensive data cleaning and preprocessing.
-
-Key Insights
-
-Customer Preferences: Guests prefer entire homes/apartments, with Brooklyn (Williamsburg, Bedford-Stuyvesant) being most popular and Manhattan the priciest. Seasonal price increases occur from Oct-Jan.
-
-Growth Opportunities: Staten Island and emerging Brooklyn areas show high growth potential; geospatial analysis highlights dense activity in Brooklyn and Manhattan.
-
-Host Performance: Top hosts are identified by high review counts; a significant portion of listings lack reviews, indicating a need for host support.
-
-Pricing Strategy: Pricing is heavily influenced by room type and location; seasonal fluctuations are notable.
-
-Conclusion
-
-The analysis provides critical data-driven insights for targeted marketing, host empowerment, and optimized pricing, strengthening Airbnb's position and driving growth in NYC.
-
-Technologies Used
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
 
 # 📊 Airbnb Hotel Booking Analysis Dashboard
 This project features an interactive Tableau dashboard analyzing Airbnb listings in key cities. The goal is to derive actionable insights that help improve guest satisfaction, optimize pricing strategies, support host performance, and drive business growth.
@@ -85,6 +47,46 @@ Certain neighborhoods consistently attract more bookings and command higher pric
 Listings with high availability but few reviews may indicate underperformance.
 
 🏁 Project Goals
+
+# EDA_AirBnb_Hotel_Bookings_Analysis
+New York City Market Analysis
+Project Overview
+
+This project delivers an in-depth Exploratory Data Analysis (EDA) of Airbnb listings in New York City. The goal was to extract actionable insights to enhance guest satisfaction, identify growth opportunities, support host success, and refine pricing strategies, leveraging a comprehensive dataset of over 48,000 listings.
+
+Business Context & Goals
+
+Airbnb aimed to address challenges in the NYC market by understanding customer preferences, identifying emerging neighborhoods for expansion, empowering hosts, and optimizing pricing for revenue and guest satisfaction.
+
+Dataset
+
+Analysis was conducted on the "Airbnb NYC 2019.csv" dataset (48,895 entries, 16 columns), following extensive data cleaning and preprocessing.
+
+Key Insights
+
+Customer Preferences: Guests prefer entire homes/apartments, with Brooklyn (Williamsburg, Bedford-Stuyvesant) being most popular and Manhattan the priciest. Seasonal price increases occur from Oct-Jan.
+
+Growth Opportunities: Staten Island and emerging Brooklyn areas show high growth potential; geospatial analysis highlights dense activity in Brooklyn and Manhattan.
+
+Host Performance: Top hosts are identified by high review counts; a significant portion of listings lack reviews, indicating a need for host support.
+
+Pricing Strategy: Pricing is heavily influenced by room type and location; seasonal fluctuations are notable.
+
+Conclusion
+
+The analysis provides critical data-driven insights for targeted marketing, host empowerment, and optimized pricing, strengthening Airbnb's position and driving growth in NYC.
+
+Technologies Used
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
 
 Support data-driven decisions for Airbnb hosts and analysts.
 
