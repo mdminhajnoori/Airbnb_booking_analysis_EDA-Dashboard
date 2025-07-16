@@ -37,15 +37,57 @@ Matplotlib
 
 Seaborn
 
-# Airbnb_Hotel_Booking_Analysis_Dashboard
-The Airbnb Booking Analysis Dashboard is an interactive data visualization tool designed to uncover key insights from Airbnb listings data. Built using Tableau, this dashboard helps stakeholders—hosts, analysts, and business strategists—better understand market trends, guest behavior, and pricing patterns.
+# 📊 Airbnb Hotel Booking Analysis Dashboard
+This project features an interactive Tableau dashboard analyzing Airbnb listings in key cities. The goal is to derive actionable insights that help improve guest satisfaction, optimize pricing strategies, support host performance, and drive business growth.
 
-🔍 Key Objectives Understand listing distribution across neighborhoods and room types.
+🧠 Key Objectives
 
-Analyze host activity, such as multiple vs. single listings.
+Understand booking behavior and trends
 
-Track price trends by room type, availability, and location.
+Identify top-performing hosts and listings
 
-Investigate guest engagement through review counts and sentiments.
+Analyze availability, pricing, and review scores
 
-Identify high-performing listings and host strategies.
+Compare host types (superhost vs. regular host)
+
+Explore seasonal and regional availability patterns
+
+📌 Dashboard Highlights
+
+💼 Listings per Host: Distribution of how many listings each host manages
+
+⭐ Host Review Scorecard: Table of hosts with the highest average ratings
+
+📆 Availability vs Reviews: Relationship between listing availability and review count
+
+📊 Active vs Single-Listing Hosts: Proportion of hosts with multiple listings
+
+🏘️ Neighborhood Price Analysis: Explore pricing trends across neighborhoods
+
+📈 Monthly Booking Trends: Seasonal patterns in bookings and availability
+
+🧾 Room Type Listing Details: Detailed breakdown of listings including room type, price, and review stats
+
+🔧 How to Use
+
+Download and open the .twbx file in Tableau Desktop or Tableau Public.
+
+Interact with charts and filters to explore insights.
+
+Use the dashboard to uncover trends, gaps, and optimization opportunities in Airbnb listings.
+
+📌 Insights Example
+
+Superhosts tend to have more listings and higher review scores.
+
+Certain neighborhoods consistently attract more bookings and command higher prices.
+
+Listings with high availability but few reviews may indicate underperformance.
+
+🏁 Project Goals
+
+Support data-driven decisions for Airbnb hosts and analysts.
+
+Help understand customer behavior through visual storytelling.
+
+Provide a reusable framework for similar booking platforms.
